@@ -61,6 +61,9 @@
     msg[this.name] = this.value;
     toggle();
   }
+
+  speechSynthesis.addEventListener('voiceschanged', populateVoices);
+
   </script>
 </body>
 </html>
