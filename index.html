@@ -50,7 +50,10 @@
   }
 
   function toggle(startOver = true) {
-
+    speechSynthesis.cancel();
+    if (startOver) {
+      speechSynthesis.speak(msg);
+    }
   }
   </script>
 </body>
