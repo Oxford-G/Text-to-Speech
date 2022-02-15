@@ -54,5 +54,8 @@ h1 {
 .voiceinator button,
 .voiceinator select,
 .voiceinator textarea {
+  width: 100%;
+  display: block;
+
 
 }
