@@ -64,3 +64,6 @@ h1 {
   outline: 0;
 }
 
+textarea {
+  height: 20rem;
+}
