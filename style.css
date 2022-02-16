@@ -72,5 +72,6 @@ textarea {
   background: #ffc600;
   border: 0;
   width: 49%;
+  float: left;
 
 }
