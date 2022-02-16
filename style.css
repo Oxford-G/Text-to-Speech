@@ -69,6 +69,8 @@ textarea {
 }
 
 .voiceinator button {
-  
+  background: #ffc600;
+  border: 0;
+  width: 49%;
 
 }
