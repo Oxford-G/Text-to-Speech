@@ -76,6 +76,8 @@ textarea {
   font-family: 'Pacifico', cursive;
   margin-bottom: 0;
   font-size: 2rem;
-  
+  border-bottom: 5px solid #F3C010;
+  cursor: pointer;
+  position: relative;
 
 }
