@@ -81,3 +81,6 @@ textarea {
   position: relative;
 }
 
+.voiceinator button:active {
+  top: 2px;
+}
